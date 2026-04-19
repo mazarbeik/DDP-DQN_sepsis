@@ -18,7 +18,7 @@ The framework includes:
 - Weighted K-means state clustering (tabular MDP)
 - Sparse autoencoder for continuous state representation (deep RL MDP)
 - DDP-DQN agent based on the Rainbow DQN architecture
-- Off-policy evaluation using FQE, DualDICE, and GradientDICE
+- Off-policy evaluation using FQE
 
 ---
 
