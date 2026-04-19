@@ -2,10 +2,10 @@
 
 This repository accompanies the following publication:
 
-> **Evaluating Deep Reinforcement Learning Architectures for Sepsis Treatment: MIMIC-IV Development and ViennaAIdb External Validation**
-> Mohammad Mahdi Azarbeik\*, Lorenz Kapral\*, Richard Weiss, Razvan Bologheanu, Oliver Kimberger†, Clemens Heitzinger†
-> *Submitted to npj Digital Medicine*
-> \* These authors contributed equally as first authors.
+> **Evaluating Deep Reinforcement Learning Architectures for Sepsis Treatment: MIMIC-IV Development and ViennaAIdb External Validation**\
+> Mohammad Mahdi Azarbeik\*, Lorenz Kapral\*, Richard Weiss, Razvan Bologheanu, Oliver Kimberger†, Clemens Heitzinger†\
+> *Submitted to npj Digital Medicine*\
+> \* These authors contributed equally as first authors.\
 > † These authors contributed equally as last authors.
 
 ---
