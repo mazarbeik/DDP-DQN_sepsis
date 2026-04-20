@@ -44,7 +44,7 @@ The data preprocessing pipeline was adapted from the Python implementation of Ko
 
 For questions regarding this work, please contact:
 
-**Mohammad Mahdi Azarbeik**
+**Mohammad Mahdi Azarbeik**\
 Institute for Information Systems Engineering, TU Vienna
 [mohammad.azarbeik@tuwien.ac.at](mailto:mohammad.azarbeik@tuwien.ac.at)
 
